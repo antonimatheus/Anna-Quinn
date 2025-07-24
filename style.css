@@ -40,7 +40,7 @@ body {
   height: 100vh;
   font-family: var(--fontRegular);
   font-size: 14px;
-  background: url(imgs/bg-desktop.png);
+  background: url(imgs/bg-desktop.webp);
   background-size: cover;
 }
 

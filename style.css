@@ -40,7 +40,8 @@ body {
   height: 100vh;
   font-family: var(--fontRegular);
   font-size: 14px;
-  background-color: var(--OffBlack);
+  background: url(imgs/bg-desktop.png);
+  background-size: cover;
 }
 
 #container {
